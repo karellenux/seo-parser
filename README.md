@@ -25,7 +25,7 @@ For now, you can get received next data from the website:
 
 ### What remains to be done
 
-Now I have several tasks before me:
+Now I have several tasks for myself:
 * Rebuild the entire parser file to match the DRY concept.
 * Add the ability to search for parser not only on a given page, but also on the internal pages of the site.
 * Make it possible to insert several URLs at once.
