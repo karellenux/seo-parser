@@ -1,5 +1,5 @@
 # SeoParser
-An SEO parser that detects and return the necessary data for SEO-specialist.
+A SEO parser that detects and return the necessary data for SEO-specialist.
 
 ## How to use it
 
