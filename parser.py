@@ -47,7 +47,7 @@ def parse(html):
             print('Keywords of this page is:\n' + siteKeywords + '\n')
             allData['Keywords'] = siteKeywords
         else:
-            pass
+            siteKeywords = 'This website hasn\'t a keywords'
 
     #Looking for a canonical
 
