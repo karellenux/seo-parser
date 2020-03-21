@@ -4,7 +4,7 @@ A SEO parser that detects and return the necessary data for SEO-specialist.
 ## How to use it
 
 First, you need to make sure that you have Python 3.7 installed. You also need libraries:
-* [BeautifulSoup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
+* [BeautifulSoup 4](https://pypi.org/project/beautifulsoup4/)
 * [urllib3 1.25.2](https://pypi.org/project/urllib3/)
 
 Once you understand that everything you need is installed on your computer, run the [parser.py](parser.py) file in the console and paste the URL of the site that you want to parse, including the Protocol (http or https), and press Enter.
